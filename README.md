@@ -26,4 +26,6 @@ Reach out to me on Telegram: [@sl1degod](https://t.me/sl1degod)
 </p>
 
 ### GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl1degod&layout=compact)
+###
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sl1degod&show_icons=true&theme=radical)
