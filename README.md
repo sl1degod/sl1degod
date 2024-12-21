@@ -9,7 +9,7 @@ I'm a junior developer with strong knowledge of Java and some experience with Ja
 
 ## 🛠️ Skills
 - **Languages:** Java, JavaScript
-- **Frameworks:** Spring Boot 3, Vue.js, React (basic)
+- **Frameworks:** Spring Boot 3, Vue.js (basic), React (little bit)
 - **Databases:** PostgreSQL, MSSQL
 - **Tools:** Docker
 
