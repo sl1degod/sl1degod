@@ -1,7 +1,7 @@
 
 # Hi, I'm Ilyas 👋
-🎉 **20 years old | Junior Java Developer at CDI (СиДиАй)**  
-🌍 **Based in Russia**
+ **20 years old | Junior Java Developer at CDI (СиДиАй)**  
+ **Based in Russia**
 ### 💻 About Me
 I enjoy creating powerful applications and constantly learning new technologies. In my free time, I play guitar, video games, watch anime/series, and go for walks.
 ### 🛠️ Skills
