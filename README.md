@@ -1,33 +1,30 @@
-$ whoami
-Ilyas
+# Hi, I'm Ilyas 👋
 
-$ age
-20
+🎉 **20 years old | Junior Java Developer at CDI (СиДиАй)**  
+🌍 **Based in Russia**
 
-$ location
-Russia
+## 💻 About Me
+I'm a junior developer with strong knowledge of Java and some experience with JavaScript. I enjoy creating powerful applications and constantly learning new technologies. In my free time, I play guitar, video games, watch anime/series, and go for walks.
 
-$ occupation
-Junior Java Developer at CDI (СиДиАй)
+## 🛠️ Skills
+- **Languages:** Java, JavaScript
+- **Frameworks:** Spring Boot 3, Vue.js, React (basic)
+- **Databases:** PostgreSQL, MSSQL
+- **Tools:** Docker
 
-$ about
-I'm a junior developer with strong knowledge of Java and some experience with JavaScript.
-I enjoy creating powerful applications and constantly learning new technologies.
-In my free time, I play guitar, video games, watch anime/series, and go for walks.
+## 📫 Let's Connect
+Reach out to me on Telegram: [@sl1degod](https://t.me/sl1degod)
 
-$ skills
-- Programming Languages: Java, JavaScript
-- Frameworks: Spring Boot 3, Vue.js, React (basic)
-- Databases: PostgreSQL, MSSQL
-- Tools: Docker
+## 🔗 My Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-$ connect
-Reach out to me on Telegram: @sl1degod
-
-$ tech_stack
-[Java] [JavaScript] [Spring Boot] [Vue.js] [PostgreSQL] [MSSQL] [Docker]
-
-$ github_stats
+## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sl1degod&show_icons=true&theme=radical)
-
-$ exit
